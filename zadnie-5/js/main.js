@@ -1,0 +1,3 @@
+alert("Skrypt działa prawidłowo!") ;
+
+
